@@ -1,0 +1,5 @@
+[project]
+name = "mpm-py"
+version = "0.1.0"
+description = "MPM-Py: A program for learning the Material Point Method using Python"
+requires-python = ">=3.10"
