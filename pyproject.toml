@@ -5,3 +5,4 @@ description = "MPM-Py: A program for learning the Material Point Method using Py
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # drop an unused branch
+# guard against empty input
